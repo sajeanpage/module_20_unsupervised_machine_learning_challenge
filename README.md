@@ -9,5 +9,5 @@ After analyzing the data I have determined the following:
 - Plotting TSNE results at learning_rate=7, perplexity=7 revealed that patients may be able to be separated into 4 or 5 clusters
 - Analyzing K means from 1 to 10 also revealed that 4 clusters may the the optimal number of groups for the data
 
-# ![banner](https://github.com/sajeanpage/module_20_unsupervised_machine_learning_challenge/blob/291af7e97d4dc1d7e6c8325bc7889f68394064a1/Resources/clusters.JPG)
-# ![banner](https://github.com/sajeanpage/module_20_unsupervised_machine_learning_challenge/blob/291af7e97d4dc1d7e6c8325bc7889f68394064a1/Resources/elbow.JPG)
+# ![banner](https://github.com/sajeanpage/module_20_unsupervised_machine_learning_challenge/blob/Resources/clusters.JPG)
+# ![banner](https://github.com/sajeanpage/module_20_unsupervised_machine_learning_challenge/blob/Resources/elbow.JPG)
